@@ -14,7 +14,7 @@ To start using My Rents create your account and start adding some rents into you
 
 ## Support
 
-In order to help users with any problem they can face we have [THIS PAGE](https://github.com/erperejildo/my-rents-support/issues/new)THIS PAGE to create issues.
+In order to help users with any problem they can face we have [THIS PAGE](https://github.com/erperejildo/my-rents-support/issues/new) to create issues.
 
 The more info you provide, the faster we can fix the issue so don't hesitate to write a long message.
 
